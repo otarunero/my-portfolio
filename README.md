@@ -5,7 +5,7 @@
 ## About Me
 See [About Me](about.md)
 
-
-#Projects-GitBasics
-
+## Projects
+- Git Basics
+- DevOps Lab 1
 
